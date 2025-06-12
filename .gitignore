@@ -1,0 +1,54 @@
+# Flutter/Dart spezifische Dateien
+.dart_tool/
+.packages
+.pub/
+build/
+flutter_*.png
+flutter_export_environment.sh
+
+# IDE-spezifische Dateien
+.idea/
+.vscode/
+*.iml
+
+# Android spezifische Dateien
+android/.gradle
+android/app/*.iml
+android/local.properties
+android/**/build/
+android/captures/
+
+# iOS spezifische Dateien
+ios/.generated/
+ios/Runner/GeneratedPluginRegistrant.*
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/Flutter/GeneratedPluginRegistrant.*
+
+# macOS spezifische Dateien
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/Pods/
+
+# Web spezifische Dateien
+web/.dart_tool/
+web/build/
+
+# Linux spezifische Dateien
+linux/flutter/
+linux/build/
+
+# Windows spezifische Dateien
+windows/flutter/
+windows/build/
+
+# Sonstige Dateien
+*.log
+*.tmp
+*.bak
+.DS_Store
+
